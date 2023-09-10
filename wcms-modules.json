@@ -4,10 +4,10 @@
         "Bootstrap5": {
             "name": "Bootstrap5",
             "repo": "https://github.com/rizwanikram-hub/WonderCMS/tree/Bootstrap5",
-            "zip": "https://github.com/rizwanikram-hub/WonderCMS/archive/Bpptstrap5.zip",
-            "summary": "My sample plugin",
+            "zip": "https://github.com/rizwanikram-hub/WonderCMS/blob/Bootstrap5/Bootstrap5.zip",
+            "summary": "Bootstrap5 Plugin for WonderCMS 3.x.x",
             "version": "3.0.0",
-            "image": "https://github.com/rizwanikram-hub/WonderCMS/tree/Bootstrap5/preview.jpg"
+            "image": "https://github.com/rizwanikram-hub/WonderCMS/blob/Bootstrap5/preview.jpeg"
         }
     }
 }
